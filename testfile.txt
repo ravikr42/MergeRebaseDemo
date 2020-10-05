@@ -1,2 +1,4 @@
 This is from first commit to master.
 This is from Feature A.
+This is frmo Feature B.
+This too is from Featur B.
